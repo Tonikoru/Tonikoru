@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonikoru
-- 👀 I’m interested in programming, specically for games
-- 🌱 I’m currently learning C++ for Unity!
+- 👀 I’m interested in programming, especically for games
+- 🌱 I’m currently learning R!
 - 💞️ If you want to collaborate on anything, I'm up for the challenge!
 - 📫 How to reach me: please use my GitHub address only!
 
